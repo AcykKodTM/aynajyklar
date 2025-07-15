@@ -1,10 +1,10 @@
 
 # Mirror urls
 
-https://mirror-pypi.runflare.com/simple/
-https://mirrors.aliyun.com/pypi/simple/
-https://mirrors.ustc.edu.cn/pypi/simple/
-https://mirrors.sustech.edu.cn/pypi/web/simple
+[https://mirror-pypi.runflare.com/simple/](https://mirror-pypi.runflare.com/simple/)
+[https://mirrors.aliyun.com/pypi/simple/](https://mirrors.aliyun.com/pypi/simple/)
+[https://mirrors.ustc.edu.cn/pypi/simple/](https://mirrors.ustc.edu.cn/pypi/simple/)
+[https://mirrors.sustech.edu.cn/pypi/web/simple](https://mirrors.sustech.edu.cn/pypi/web/simple)
 
 
 # How to add
